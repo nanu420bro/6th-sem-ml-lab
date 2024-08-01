@@ -1,0 +1,11 @@
+age,gender,familyhistory,diet,lifestyle,cholestrol,heartdiease
+45,male,yes,balanced,active,high,no
+52,female,no,veg,sedantory,normal,yes
+60,male,yes,nonveg,active,normal,no
+36,female,no,med,active,normal,no
+70,male,yes,lowcarb,sedantary,high,yes
+48,female,yes,balanced,active,high,no
+55,male,no,veg,sedantory,normal,yes
+42,female,no,nonveg,active,normal,no
+58,male,yes,med,active,high,no
+50,female,yes,lowcarb,sedantory,normal,yes
